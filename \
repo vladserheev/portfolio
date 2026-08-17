@@ -1,0 +1,19 @@
+added dist dir
+
+# Conflicts:
+#	server/package.json
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Vladyslav Serhieiev <vladyslavserhieiev@Vladyslavs-MacBook-Air.local>
+#
+# interactive rebase in progress; onto 66229dd
+# Last command done (1 command done):
+#    pick a73f0a2 # added dist dir
+# No commands remaining.
+# You are currently rebasing branch 'main' on '66229dd'.
+#
+# Changes to be committed:
+#
+	modified:   server/package.json
