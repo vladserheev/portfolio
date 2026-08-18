@@ -6,7 +6,7 @@
 
   "scripts": {
     "build": "cd ../client && npm install && npm run build && cd ../gamix && npm install && npm run build && cd ../barbershop && npm install && npm run build",
-    "start": "node server/app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
