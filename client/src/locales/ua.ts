@@ -22,7 +22,7 @@ const ua = {
     location: "ВАРШАВА, PL",
   },
   about: {
-    heading: "Я МАЙБУТНІЙ\nРОЗРОБНИК ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ.",
+    heading: "Я РОЗРОБНИК ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ.",
     view_button: "ПРО МЕНЕ*",
     about_title: "ПРО МЕНЕ",
     about_text:

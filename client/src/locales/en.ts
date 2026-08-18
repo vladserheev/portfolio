@@ -22,7 +22,7 @@ const en = {
     location: "WARSAW, PL",
   },
   about: {
-    heading: "I AM A FUTURE\nSOFTWARE ENGINEER.",
+    heading: "I AM A SOFTWARE ENGINEER.",
     view_button: "VIEW ABOUT ME*",
     about_title: "ABOUT ME",
     about_text:

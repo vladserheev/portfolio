@@ -22,7 +22,7 @@ const pl = {
     location: "WARSZAWA, PL",
   },
   about: {
-    heading: "JESTEM PRZYSZŁYM\nINŻYNIEREM OPROGRAMOWANIA.",
+    heading: "JESTEM INŻYNIEREM OPROGRAMOWANIA.",
     view_button: "ZOBACZ O MNIE*",
     about_title: "O MNIE",
     about_text:
