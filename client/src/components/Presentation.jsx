@@ -10,7 +10,7 @@ function Presentation() {
                     <span className="availability-dot"></span>
                     <h2>{t("presentation.available")}</h2>
                 </div>
-                <h1>{t("presentation.name1")}vvvvvv</h1>
+                <h1>{t("presentation.name1")}</h1>
                 <h1>{t("presentation.name2")}</h1>
             </div>
 
