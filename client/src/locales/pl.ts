@@ -82,8 +82,8 @@ const pl = {
     view_portfolio: "ZOBACZ PORTFOLIO*",
     featured: "WYBRANE PROJEKTY",
     items: [
-      { id: 1, title: "SKLEP GAMINGOWY", category: "STRONA WWW" },
-      { id: 2, title: "BARBERSHOP", category: "TWORZENIE STRON" },
+      { id: 1, title: "SKLEP GAMINGOWY", category: "STRONA WWW", link: "/projects/gamix" },
+      { id: 2, title: "BARBERSHOP", category: "TWORZENIE STRON", link: "/projects/barbershop" },
     ],
   },
   presentation: {

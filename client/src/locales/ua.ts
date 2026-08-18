@@ -82,8 +82,8 @@ const ua = {
     view_portfolio: "ПЕРЕГЛЯНУТИ ПОРТФОЛІО*",
     featured: "ОБРАНІ ПРОЄКТИ",
     items: [
-      { id: 1, title: "ІГРОВИЙ МАГАЗИН", category: "ВЕБ-САЙТ" },
-      { id: 2, title: "ПЕРУКАРНЯ", category: "РОЗРОБКА САЙТІВ" },
+      { id: 1, title: "ІГРОВИЙ МАГАЗИН", category: "ВЕБ-САЙТ", link: "/projects/gamix" },
+      { id: 2, title: "ПЕРУКАРНЯ", category: "РОЗРОБКА САЙТІВ", link: "/projects/barbershop" },
     ],
   },
   presentation: {

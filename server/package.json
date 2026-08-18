@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
-    "build": "cd ../client && npm install && npm run build"
+    "build": "cd ../client && npm run build && cd ../gamix && npm run build && cd ../barbershop && npm run build",
+    "start": "node server/app.js"
   },
   "keywords": [],
   "author": "",

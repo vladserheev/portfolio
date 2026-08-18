@@ -82,8 +82,8 @@ const en = {
     view_portfolio: "VIEW PORTFOLIO*",
     featured: "FEATURED CASES",
     items: [
-      { id: 1, title: "GAMING SHOP", category: "WEB SITE" },
-      { id: 2, title: "BARBERSHOP", category: "WEB DEVELOPMENT" },
+      { id: 1, title: "GAMING SHOP", category: "WEB SITE", link: "/projects/gamix" },
+      { id: 2, title: "BARBERSHOP", category: "WEB DEVELOPMENT", link: "/projects/barbershop" },
     ],
   },
   presentation: {
