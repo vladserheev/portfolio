@@ -12,7 +12,7 @@ app.use(express.json())
 app.use(express.static(path.join(__dirname, "dist")));
 
 app.get("/{*splat}", (req, res) => {
-    res.sendFile(path.join(__dirname, "dist", "index.html"));
+    res.sendFile(path.join(__dirname, "../client/dist", "index.html"));
 });
 
 app.post("/api/contact", (req, res) => {
